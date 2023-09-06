@@ -9,6 +9,7 @@
   - Age: 20
   - Nationality: Indian.
   - Currently Residing in Bhopal, Madhya Pradesh, India.
+  - Current Aim: MERN Stack Web Devlopment
  </i> 
  
  ## Things I'm currently learning :
