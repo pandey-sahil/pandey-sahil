@@ -57,6 +57,5 @@
 ###
 <a href="https://open.spotify.com/user/313jac2l2ikcf4wltty2do7odxri?si=15f1c24500ce4a56"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/pandey-sahil)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hodakaa)
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PirateHunterX)
 ###
