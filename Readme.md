@@ -12,11 +12,11 @@
 
 <p align="left" style="font-family: 'Arial', sans-serif; color: #333;">
   <i>
-    - **Name:** Sahil Pandey<br>
-    - **Age:** 22<br>
-    - **Nationality:** Indian<br>
-    - **Location:** Bhopal, Madhya Pradesh, India<br>
-    - **Current Aim:** MERN Stack Developer
+    - <b>Name:</b> Sahil Pandey<br>
+    - <b>Age:</b> 22<br>
+    - <b>Nationality:</b> Indian<br>
+    - <b>Location:</b> Bhopal, Madhya Pradesh, India<br>
+    - <b>Current Aim:</b> MERN Stack Developer
   </i>
 </p>
 
