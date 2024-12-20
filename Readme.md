@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="left" style="color: #e94e77;">📖 About Me</h3>
+<h3 align="center" style="color: #e94e77;">📖 About Me</h3>
 
 <p align="left" style="font-family: 'Arial', sans-serif; color: #333;">
   <i>
@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="left" style="color: #e94e77;">💻 Languages and Tools:</h3>
+<h3 align="center" style="color: #e94e77;">💻 Languages and Tools:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="left" style="color: #e94e77;">📊 My GitHub Stats:</h3>
+<h3 align="center" style="color: #e94e77;">📊 My GitHub Stats:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pandey-sahil&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
@@ -66,20 +66,17 @@
 
 ---
 
-<h3 align="left" style="color: #e94e77;">🔗 You Can Also Find Me At:</h3>
+<h3 align="center" style="color: #e94e77;">🔗 You Can Also Find Me At:</h3>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/313jac2l2ikcf4wltty2do7odxri?si=15f1c24500ce4a56">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  <a href="https://www.linkedin.com/in/pandey-sahil" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/pandey-sahil">
-    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub">
+  <a href="https://www.telegram.me/pirateHunterX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://t.me/PirateHunterX">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-<a href="https://www.linkedin.com/in/pandey-sahil" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</div>
+
+###
 
 </div>
