@@ -67,6 +67,11 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+
 <h3 align="center" style="color: #e94e77;">🔗 You Can Also Find Me At:</h3>
 
 <div align="center">
