@@ -60,6 +60,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pandey-sahil/count.svg?"  />
+</div>
+
+---
+
 <h3 align="left" style="color: #e94e77;">🔗 You Can Also Find Me At:</h3>
 
 <div align="center">
