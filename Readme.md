@@ -1,7 +1,5 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #4a90e2;">✨ Heya! I'm Sahil 👋</h1>
 
----
-
 <p align="center">
   <img height="300" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Sahil's GIF">
 </p>
